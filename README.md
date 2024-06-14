@@ -23,7 +23,7 @@ O objetivo será criar uma arquitetura básica para o sistema, utilizando concei
 
 ```lua
           +-------------------------+
-          |    BibliotecaDigital    |
+          |    MaterialLeitura    |
           +-------------------------+
           | - titulo: string        |
           | - autor: string         |
